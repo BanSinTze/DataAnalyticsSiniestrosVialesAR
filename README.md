@@ -6,7 +6,7 @@ Los siniestros viales, conocidos como accidentes de tráfico, son eventos en ví
 Se hizo un ETL para obtener los datasets sin las columnas que no ocupabamos y poder tratarlo en el EDA de forma un poco más sencilla. <br>
 Se utilizaron herramientas de EDA automatico como Y-Profiling para ahorrarnos un poco de tiempo, analizando datos faltantes y buscando datos repetidos. <br>
 ## DASHBOARD EN POWER BI
-![DASH](./src/dash.jpg)
+![DASH](./src/dash.png)<br>
 Se realizó el dashboard en PowerBI, la primera página nos describe a grandes rasgos la parte de los siniestros, la segunda página nos sirve para ver dónde y con cuanta frecuencia ocurren accidentes en los lugares del mapa, la tercera página nos deja ver la visualización de datos de la víctimas, terminando con la página cuatro, la cual nos deja ver la visualización de los KPI's.
 ## KPI's
 se realizaron 3 KPI'S: <br>
